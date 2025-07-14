@@ -1,13 +1,12 @@
-## A passionate Backend Developer
+## A passionate Full Stack Developer
 
-<img align="right" src="hacker1.jpg" alt="Female Coder" width="250"/>
+<img align="right" src="Developer.jpeg" alt="Fraan - the coder" width="250"/>
 
-- 🛠️ I’m currently working on Java-based applications and scalable Spring Boot backend systems
-- 🌱 I’m currently exploring Cybersecurity, Advanced Machine Learning, and Cloud Computing
-- 💬 Ask me about Java, Spring Boot, Backend Development, and Machine Learning
-- 🤝 I love building real-world projects and collaborating with curious minds  
+- 🛠️ Working on Full Stack applications and scalable systems
+- 🤖 Exploring AI + Full Stack 
+- 🤝 Love building real-world projects and collaborating with curious minds  
 - 🚀 Always excited to discuss innovative ideas or contribute to impactful open-source projects  
-- 📫 How to reach me: [mercia.jeno@gmail.com](mailto:mercia.jeno@gmail.com)
+- 📫 How to reach me: [mdfarhaanhere@gmail.com](mailto:mdfarhaanhere@gmail.com)
 
 
 ---
@@ -22,17 +21,20 @@
 
 ## 🛠️ Tools & Frameworks:
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
 </p>
 
 ## 🔧 DevOps & Platforms:
 <p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
