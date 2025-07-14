@@ -3,7 +3,7 @@
 <img align="right" src="Developer.jpeg" alt="Fraan - the coder" width="250"/>
 
 - 🛠️ Working on Full Stack applications and scalable systems
-- 🤖 Exploring AI + Full Stack 
+- 🤖 Exploring Full Stack and AI 
 - 🤝 Love building real-world projects and collaborating with curious minds  
 - 🚀 Always excited to discuss innovative ideas or contribute to impactful open-source projects  
 - 📫 How to reach me: [mdfarhaanhere@gmail.com](mailto:mdfarhaanhere@gmail.com)
