@@ -49,9 +49,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merciajeno&show_icons=true&theme=github_dark&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merciajeno&layout=compact&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com/?user=merciajeno&theme=dark&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merciajeno&bg_color=1e1e1e&color=9e4c98&line=5BC0BE&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FraanW&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraanW&layout=compact&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=Farhaan114&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FraanW&bg_color=1e1e1e&color=9e4c98&line=5BC0BE&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
